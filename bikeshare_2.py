@@ -111,6 +111,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print('Hey you! yeah!! Keep on exploring !!!')
 
 
 def station_stats(df):
