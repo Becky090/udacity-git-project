@@ -49,6 +49,6 @@ All credits goes to Udacity for making this Nanodegree program worth all the tim
 
 ###### You can explore this project to gain more knowledge of the project.
 ````
-Happy explore!!!!
+Good to have you here, Happy explore!!!!
 
 ````
